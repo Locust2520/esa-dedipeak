@@ -1,0 +1,15 @@
+matplotlib
+mpmath
+numpy
+numba
+pandas
+reformer_pytorch
+requests
+scikit_learn
+setuptools
+torch
+torchvision
+torch_dct
+sympy
+performer-pytorch
+tqdm
